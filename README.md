@@ -1,12 +1,31 @@
 
-# DevShelf-WebWizards
-## Summer of Innovation 2024
+# Library Management System
+
+A full-stack Library Management System built with **React**, **Express**, and **MongoDB**
+
+---
+
+## Features
+
+- User authentication (login/signup)
+- Book management (view, issue, return)
+- Modern React frontend with Tailwind CSS
+- Node.js/Express backend with MongoDB
+
+---
+
+- **Frontend**: React, React Router, Tailwind CSS, Axios, React Hot Toast
+- **Backend**: Express, MongoDB (Mongoose)
+
+---
 
 ### Prerequisites
 Ensure you have the following installed on your machine:
 - A code editor (e.g., VS Code)
 - MongoDB
 - Node.js
+
+---
 
 ### Installation Instructions
 
@@ -25,6 +44,8 @@ Ensure you have the following installed on your machine:
    ```sh
    cd ../Backend
    npm start
+
+---
 
 ### Database Setup
 
@@ -56,5 +77,14 @@ Running the Application
    cd Backend
    npm start
 
+---
 
+## License
 
+MIT
+
+---
+
+## Credits
+
+Built by [Reddy Jaideep](https://github.com/Jaideep718).
